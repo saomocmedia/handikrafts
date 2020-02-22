@@ -549,11 +549,11 @@ h6.product-name{
     width: 48px;
     background: #ffffff;
 }
-.addcart-btn{
+.addcart-btn a{
     background-color: #fff; 
     color: #9166aa; 
     border: 2px solid #9166aa;
-    padding: 6px 22px;
+    padding: 1px 22px;
     border-radius: 20px;
     text-transform: uppercase;
     text-align: center;
@@ -564,11 +564,11 @@ h6.product-name{
     transition-duration: 0.4s;
     cursor: pointer;
 }
-.addcart-btn:hover{
+.addcart-btn a:hover{
     background-color: #fed100; 
     color: #fff; 
     border: 2px solid #fed100;
-    padding: 6px 22px;
+    padding: 1px 22px;
     text-transform: uppercase;
     border-radius: 20px;
     text-align: center;
